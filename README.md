@@ -1,2 +1,4 @@
-# inf03180-Project1
-Code and files for project 1
+# Demo User App
+This demo app demonstrates the use of Flask-Login and Flask-Migrate extensions
+
+## Setup
